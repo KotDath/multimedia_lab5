@@ -1,0 +1,27 @@
+.login-page {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#controls {
+  display: block;
+  margin: 1rem auto;
+  width: 40%;
+}
+
+mat-form-field {
+  display: block;
+  width: 60%;
+  min-width: 320px;
+  margin: 0.5rem auto 1rem;
+}
+
+form {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+button[mat-flat-button] {
+  height: 40px;
+  line-height: 40px;
+}
